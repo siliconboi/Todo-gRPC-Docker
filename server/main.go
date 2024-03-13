@@ -1,8 +1,8 @@
 package main
 
 import (
-	"Appointy/Tasks/grpc-crud/db"
-	pb "Appointy/Tasks/grpc-crud/protobuf"
+	"Hero/Tasks/grpc-crud/db"
+	pb "Hero/Tasks/grpc-crud/protobuf"
 	"context"
 	"net"
 	"sync"

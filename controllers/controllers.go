@@ -1,7 +1,7 @@
 package controllers
 
 import (
-	pb "Appointy/Tasks/grpc-crud/protobuf"
+	pb "Hero/Tasks/grpc-crud/protobuf"
 	"context"
 	"net/http"
 	"time"

@@ -1,8 +1,8 @@
 package handlers
 
 import (
-	"Appointy/Tasks/grpc-crud/controllers"
-	pb "Appointy/Tasks/grpc-crud/protobuf"
+	"Hero/Tasks/grpc-crud/controllers"
+	pb "Hero/Tasks/grpc-crud/protobuf"
 	"net/http"
 )
 

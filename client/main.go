@@ -1,11 +1,11 @@
 package main
 
 import (
-	"Appointy/Tasks/grpc-crud/routers"
+	"Hero/Tasks/grpc-crud/routers"
 	"log"
 	"net/http"
 
-	pb "Appointy/Tasks/grpc-crud/protobuf"
+	pb "Hero/Tasks/grpc-crud/protobuf"
 
 	"google.golang.org/grpc"
 	"google.golang.org/grpc/credentials/insecure"

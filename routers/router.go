@@ -1,8 +1,8 @@
 package routers
 
 import (
-	"Appointy/Tasks/grpc-crud/handlers"
-	pb "Appointy/Tasks/grpc-crud/protobuf"
+	"Hero/Tasks/grpc-crud/handlers"
+	pb "Hero/Tasks/grpc-crud/protobuf"
 	"net/http"
 )
 

@@ -1,7 +1,7 @@
 package db
 
 import (
-	structs "Appointy/Tasks/grpc-crud/protobuf"
+	structs "Hero/Tasks/grpc-crud/protobuf"
 	"database/sql"
 	"fmt"
 
